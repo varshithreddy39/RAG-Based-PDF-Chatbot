@@ -1,0 +1,8 @@
+groq
+faiss-cpu
+sentence-transformers>=2.2.2
+transformers>=4.30.2
+PyPDF2
+numpy
+python-dotenv
+streamlit
